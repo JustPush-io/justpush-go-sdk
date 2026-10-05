@@ -24,7 +24,7 @@ import (
 
 const (
 	// Version of this SDK, sent in the User-Agent header.
-	Version = "0.1.0"
+	Version = "1.0.1"
 	// DefaultBaseURL is the JustPush API.
 	DefaultBaseURL = "https://api.justpush.io"
 	// DefaultTimeout applies when the client creates its own http.Client.
